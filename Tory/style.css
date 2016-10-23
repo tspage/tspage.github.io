@@ -1,0 +1,29 @@
+.black { 
+	color: #1d2120;  
+}
+
+#top-row { 
+	background-color: #ba9077;
+}
+
+.brown {
+    color: #5a5c51;
+}
+
+#bottom-row { 
+    background-color: #bcd5d1; 
+}
+
+.green {
+	color: #bcd5d1;
+
+}
+
+.content { 
+    width:80%;
+    max-width:960px;
+}
+
+#black { 
+	background-color: #1d2120;
+}
