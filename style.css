@@ -1,7 +1,6 @@
 .black { 
 	color: #1d2120;  
 }
-
 #top-row { 
 	background-color: #ba9077;
 }
@@ -20,10 +19,11 @@
 }
 
 .content { 
-    width:80%;
+    width:60%;
     max-width:960px;
+    margin:auto
 }
 
 #black { 
-	background-color: #1d2120;
+	background-color:  #1d2120;
 }
