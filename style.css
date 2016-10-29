@@ -3,6 +3,7 @@
 }
 #top-row { 
 	background-color: #ba9077;
+    font-family:inherit; 
 }
 
 .brown {
@@ -11,6 +12,7 @@
 
 #bottom-row { 
     background-color: #bcd5d1; 
+    font-family:sans-serif;
 }
 
 .green {
@@ -26,4 +28,5 @@
 
 #black { 
 	background-color:  #1d2120;
+    font-family:fantasy;
 }
