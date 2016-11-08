@@ -1,5 +1,10 @@
+    { 
+box-sizing: border-box;
+}
+
 .black { 
-	color: #1d2120;  
+	color: #1d2120;
+    flex: 1 1 auto;
 }
 #top-row { 
 	background-color: #ba9077;
@@ -17,7 +22,6 @@
 
 .green {
 	color: #bcd5d1;
-
 }
 
 .content { 
