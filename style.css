@@ -7,10 +7,14 @@
 }
 
 .nav {
-    background-color: black;
+    background-color: #bcd5d1;
     color: white;
     font-size: 1.2em;
     line-height: 4em; 
+    padding:5px;
+    box-sizing: border-box;
+    height: 125px; 
+
 }
 
 .img{
