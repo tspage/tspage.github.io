@@ -109,3 +109,8 @@ html {
     padding: 10px;
 } 
 
+.center {
+    float: center;
+    padding: 10px;
+}
+
